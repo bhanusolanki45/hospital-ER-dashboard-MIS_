@@ -1,4 +1,4 @@
-# hospital-ER-dashboard-MIS_
+# hospital-Emergency Room-dashboard-END to END_MIS_Report
 End-to-End MIS Dashboard for Hospital Emergency Room Analysis | Excel + PivotTables + Charts | Built for operational efficiency and decision-making
 
 # Hospital Emergency Room Analysis Dashboard | MIS Project
