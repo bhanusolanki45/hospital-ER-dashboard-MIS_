@@ -30,6 +30,8 @@ To create an interactive dashboard that helps hospital administrators track pati
 
 ## 📈 Key Insights
 - General Practice and Orthopedics are the busiest departments, handling the highest volume of patients (General Practice alone accounts for a significant share of referrals), indicating a need for higher staffing or resource allocation in these areas.
+
+  
 - Nearly 50% of patients require admission (50.04% admitted vs 49.96% not admitted), highlighting the critical role of the ER as a gateway to inpatient care.
 - Average wait time stands at 35.26 minutes, with notable daily variations — identifying peak hours and days can help reduce bottlenecks and improve patient flow.
 - Patient satisfaction averages 4.99/10, showing moderate service quality. Satisfaction tends to drop on high-volume days, suggesting a direct correlation between wait times and patient experience.
