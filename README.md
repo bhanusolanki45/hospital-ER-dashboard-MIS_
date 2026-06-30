@@ -91,10 +91,6 @@ To create an interactive dashboard that helps hospital administrators track pati
 - Sparkline Trends (Daily)
 - Data Cleaning & Transformation
 
-## 📈 Key Insights
-- General Practice and Orthopedics are the busiest departments.
-- [Add 4-5 bullet points from your analysis]
-
 
 
 ## 🚀 How to Use
